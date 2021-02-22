@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hey 👋. I'm [Zogot][link-github]
+I'm currently the Head of Development at [Magneds][link-magneds] based in the Netherlands where I focus on 
+ensuring an architecture that meets the business' expectations and helping implement more 
+exciting and enjoyable development experiences.
 
-<!--
-**zogot/zogot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal
+* 📚 Learning Kubernetes for both a development and scalable production setup and more Golang
+* 🤔 Thinking about a new personal project to start
+* 🆕 Making this profile and getting myself more visible
+* 🎧 Catching up on the 00's songs
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+* [LinkedIn][link-linkedin]
+* [Website][link-website]
+* [Twitter][link-twitter]
+* [Discord][link-discord]
+
+
+[link-magneds]: https://magneds.com
+[link-github]: https://github.com/zogot
+[link-linkedin]: https://www.linkedin.com/in/leon-rowland/
+[link-website]: https://leon.rowland.nl
+[link-twitter]: https://twitter.com/leonrowland
+[link-discord]: "Zogot#6277"
