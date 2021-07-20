@@ -9,6 +9,10 @@ exciting and enjoyable development experiences.
 * 🤔 Thinking about a new personal project to start
 * 🆕 Making this profile and getting myself more visible
 
+# Keys
+* [SSH Public Key][link-ssh-public-keys]
+* [GPG Public Key][link-gpg-public-keys]
+
 # Contact
 * [LinkedIn][link-linkedin]
 * [Website][link-website]
@@ -16,6 +20,8 @@ exciting and enjoyable development experiences.
 * [Discord][link-discord]
 
 
+[link-ssh-public-keys]: https://github.com/zogot.keys
+[link-gpg-public-keys]: https://github.com/zogot.gpg
 [link-magneds]: https://magneds.com
 [link-github]: https://github.com/zogot
 [link-linkedin]: https://www.linkedin.com/in/leon-rowland/
