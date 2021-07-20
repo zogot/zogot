@@ -4,11 +4,10 @@ ensuring an architecture that meets the business' expectations and helping imple
 exciting and enjoyable development experiences.
 
 ## Personal
+* 🔐 Setting up Yubikey for Person and Work endeavors!
 * 📚 Learning Kubernetes for both a development and scalable production setup and more Golang
 * 🤔 Thinking about a new personal project to start
 * 🆕 Making this profile and getting myself more visible
-* 🎧 Catching up on the 00's songs
-
 
 # Contact
 * [LinkedIn][link-linkedin]
