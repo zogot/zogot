@@ -5,9 +5,11 @@ exciting and enjoyable development experiences.
 
 ## Personal
 * 🔐 Setting up Yubikey for Person and Work endeavors!
-* 📚 Learning Kubernetes for both a development and scalable production setup and more Golang
-* 🤔 Thinking about a new personal project to start
+* 🚀 Getting more involved in Go development
 * 🆕 Making this profile and getting myself more visible
+
+# Verifications
+* [Keyoxide][link-keyoxide]
 
 # Keys
 * [SSH Public Key][link-ssh-public-keys]
@@ -19,7 +21,7 @@ exciting and enjoyable development experiences.
 * [Twitter][link-twitter]
 * [Discord][link-discord]
 
-
+[link-keyoxide]: https://keyoxide.org/7CACC1CC2F6E8E8A471AE8C8F6282D0368B3AA28
 [link-ssh-public-keys]: https://github.com/zogot.keys
 [link-gpg-public-keys]: https://github.com/zogot.gpg
 [link-magneds]: https://magneds.com
