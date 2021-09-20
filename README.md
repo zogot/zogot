@@ -1,7 +1,5 @@
 # Hey 👋. I'm [Zogot][link-github]
-I'm currently the Head of Development at [Magneds][link-magneds] based in the Netherlands where I focus on 
-ensuring an architecture that meets the business' expectations and helping implement more 
-exciting and enjoyable development experiences.
+I'm currently the Software Architect at [SalesChamp][link-saleschamp] working remotely!
 
 ## Personal
 * 🔐 Setting up Yubikey for Person and Work endeavors!
@@ -24,7 +22,7 @@ exciting and enjoyable development experiences.
 [link-keyoxide]: https://keyoxide.org/7CACC1CC2F6E8E8A471AE8C8F6282D0368B3AA28
 [link-ssh-public-keys]: https://github.com/zogot.keys
 [link-gpg-public-keys]: https://github.com/zogot.gpg
-[link-magneds]: https://magneds.com
+[link-saleschamp]: https://www.saleschamp.nl/
 [link-github]: https://github.com/zogot
 [link-linkedin]: https://www.linkedin.com/in/leon-rowland/
 [link-website]: https://leon.rowland.nl
