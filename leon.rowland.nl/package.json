@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "npm run generate-pdf:ci && astro build",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
     "generate-pdf": "ts-node --project tsconfig.pdf.json ./scripts/generate-pdf.ts",
