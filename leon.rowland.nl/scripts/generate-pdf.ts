@@ -10,10 +10,10 @@ import { chromium } from 'playwright';
   await page.locator('#pdf-link').evaluate((element) => element.style.display = 'none')
 
   await page.pdf({
-    path: 'public/resume.pdf',
+    path: 'public/LeonRowland-Resume-2023.pdf',
     margin: {
       top: '50px',
-      bottom: '80px',
+      bottom: '50px',
     },
     scale: 0.8,
     printBackground: false,
